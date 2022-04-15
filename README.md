@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Moncef Belyamani](https://www.moncefbelyamani.com/about/). After 7 years in Civic Tech at [Code for America](https://github.com/codeforamerica), [18F](https://github.com/18F) and [Truss](https://github.com/TrussWorks), I quit my job to try to make a living as a full-time creator. Having helped thousands of people set up Ruby on their Mac over the past 10 years, I knew how painful and time-consuming it is. 
+I'm [Moncef Belyamani](https://www.moncefbelyamani.com/about/). After 9 years in Civic Tech at [Code for America](https://github.com/codeforamerica), [18F](https://github.com/18F) and [Truss](https://github.com/TrussWorks), I quit my job to try to make a living as a full-time creator. Having helped thousands of people set up Ruby on their Mac over the past 10 years, I knew how painful and time-consuming it is. 
 
 To help people save their precious time and avoid frustration, I built [Ruby on Mac](https://www.rubyonmac.dev/?utm_campaign=gh-readme). With a single command, it sets up a complete Ruby development environment for you in 15 minutes or less! It can also fix common issues people run into when setting up a Mac for development, especially on M1 Macs. If you're having trouble installing Rails, Jekyll, Cocoapods, sqlite, ffi, or some other gem, give Ruby on Mac a try.
 
