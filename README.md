@@ -6,21 +6,17 @@ To help people save their precious time and avoid frustration, I built [Ruby on 
 
 I'm building Ruby on Mac in public, and sharing my progress on [Twitter](https://twitter.com/monfresh) and on [my blog](https://www.moncefbelyamani.com/tags/business/) as I work towards my goal of $24k by the end of 2022. As of June 28, I'm at $15,528.
 
-## I will save your company thousands of dollars through automation and speeding up test suites.
+## I will save your company time and money through automation and speeding up test suites.
 
-During my time in Civic Tech, I saved over 1000 person-hours across various projects and teams. Here are some examples of time savings I made:
+During my 7 years in Civic Tech, I saved over 1000 person-hours ($60k+/year) across various Rails projects and teams. Here are some examples of time savings I made:
 
 - 10 weeks/year by eliminating and shortening meetings
 - 7 weeks/year by speeding up a regularly-used Make command
 - 4 weeks/year by automating recurring manual tasks 
 - 8 weeks/year by speeding up test suites
-- 1 week/year by automating the setup of a new Mac (I've now turned this into a paid product at rubyonmac.dev/pro)
+- 1 week/year by automating the setup of a new Mac so that new Rails engineers could be up and running within minutes of opening their new laptop with a complete dev environment, all their Mac apps, and macOS preferences. (I've now turned this into a paid product at rubyonmac.dev/ultimate)
 
-**These all add up to at least $60,000 in savings per year!**
-
-There are very likely similar time-saving opportunities at your company. I can identify them for you and create a detailed report with recommendations. You can then choose to implement them yourself, hire someone else to do it, or hire me. 
-
-Contact me to stop wasting time and money!
+There are very likely similar time-saving opportunities at your company. I can identify them for you and create a detailed report with recommendations. If that sounds useful to you, I'd love to hear from you.
 
 ## Having trouble running legacy Rails or Jekyll projects on M1 Macs? I can help you!
 From talking to Ruby on Mac customers and other Ruby developers, a common pain point is not being able to run legacy Rails and Jekyll projects on M1 Macs. This is due to the projects using old versions of Ruby, and old versions of gems that might not be maintained anymore and that aren't supported on the M1 chip. The gem most people complain about is `therubyracer`. They spend days trying to install it, and either end up giving up or using workarounds they're not happy with.
