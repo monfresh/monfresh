@@ -4,7 +4,7 @@ I'm [Moncef Belyamani](https://www.moncefbelyamani.com/about/). After 9 years in
 
 To help people save their precious time and avoid frustration, I built [Ruby on Mac](https://www.rubyonmac.dev/?utm_campaign=gh-readme). With a single command, it sets up a complete Ruby development environment for you in 15 minutes or less! It can also fix common issues people run into when setting up a Mac for development, especially on M1 Macs. If you're having trouble installing Rails, Jekyll, Cocoapods, sqlite, ffi, or some other gem, give Ruby on Mac a try. It's guaranteed to work, or your money back.
 
-I'm building Ruby on Mac in public, and sharing my progress on [Twitter](https://twitter.com/monfresh) and on [my blog](https://www.moncefbelyamani.com/tags/business/) as I work towards my goal of $24k by the end of 2022. As of July 14, I'm at $17,764.
+I'm building Ruby on Mac in public, and sharing my progress on [Twitter](https://twitter.com/monfresh) and on [my blog](https://www.moncefbelyamani.com/tags/business/) as I work towards my goal of $24k by the end of 2022. As of July 29, I'm at $20,183.
 
 ## I will save your company time and money through automation and speeding up test suites.
 
