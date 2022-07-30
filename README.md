@@ -25,9 +25,9 @@ From talking to Ruby on Mac customers and other Ruby developers, a common pain p
 
 The gem most people complain about is `therubyracer`, so I wrote a blog post to prevent others from wasting their time. It goes over [how to replace therubyracer with better options](https://www.moncefbelyamani.com/stop-trying-to-install-therubyracer-on-m1-or-m2-macs/).
 
-Another popular gem that gives people trouble on M1 macs is `ffi`, and the most common reason is using an older version of the gem. The general rule of thumb is to update any gem that is the source of the error in the stacktrace.
+Another popular gem that gives people trouble on M1 macs is `ffi`, and the most common reason is using an older version of the gem. The general rule of thumb is to update any gem that is the source of the error in the stacktrace. More generally, updating gems to their latest version solves most issues that people run into with old projects.
 
-If you're still stuck getting your old Ruby projects to run, you can hire me and I'd be happy to help you. I'm taking on a limited number of clients at this time. Feel free to email me at my first name @ rubyonmac.dev and we'll go from there.
+If you're still stuck getting your old Ruby projects to run, I'd be happy to help you. I'm taking on a limited number of clients at this time. Feel free to email me at my first name @ rubyonmac.dev and we'll go from there.
 
 ## Some of my popular blog posts and talks
 [The 6 Characters That Could Bring Down Your Rails App](https://www.moncefbelyamani.com/the-6-characters-that-could-bring-down-your-rails-app/) (Euruko 2021)
