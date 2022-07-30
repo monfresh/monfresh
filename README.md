@@ -18,7 +18,7 @@ During my 9 years in Civic Tech, I saved over 1000 person-hours ($60k+/year) acr
 - 8 weeks/year by speeding up test suites
 - 2 weeks/year by automating the setup of a new Mac so that new Rails engineers could be up and running within minutes of opening their new laptop with a complete dev environment, all their Mac apps, fonts, macOS preferences, and GitHub repos. I've now turned this into a paid product at [Ruby on Mac](https://www.rubyonmac.dev/pricing).
 
-There are very likely similar time-saving opportunities at your company. I can identify them for you and create a detailed report with recommendations. If that sounds useful to you, I'd love to hear from you.
+There are very likely similar time-saving opportunities at your company. I can identify them for you and create a detailed report with recommendations. If that sounds useful to you, I'd love to hear from you. My email is my first name @ rubyonmac.dev
 
 ## Having trouble running legacy Rails or Jekyll projects on Apple Silicon Macs? I can help you!
 From talking to Ruby on Mac customers and other Ruby developers, a common pain point is not being able to run legacy Rails and Jekyll projects on Apple Silicon Macs. This is due to the projects using old versions of Ruby, and old versions of gems that might not be maintained anymore and that aren't supported on the M1/M2 chip. 
