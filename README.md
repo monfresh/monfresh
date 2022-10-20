@@ -23,6 +23,14 @@ I also started an [automation/productivity newsletter](https://www.moncefbelyama
 
 [Paste Text on Sites That Block It Without Extensions or Browser Hacks](https://www.moncefbelyamani.com/paste-text-on-sites-that-block-it-without-extensions-or-browser-hacks/)
 
+[The fastest and easiest way to install Ruby on a Mac in 2022](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
+
+[Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI](https://www.moncefbelyamani.com/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli/)
+
+[How to Install (Or Get Rid Of) therubyracer on M1 or M2 Macs](https://www.rubyonmac.dev/how-to-install-therubyracer-on-m1-m2-apple-silicon-mac)
+
+[How to Install Ruby on Intel and Apple Silicon (M1/M2) With macOS 12.6](https://www.rubyonmac.dev/how-to-install-ruby-on-macos-12-6-apple-silicon)
+
 <!--
 **monfresh/monfresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
