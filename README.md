@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Moncef Belyamani](https://www.moncefbelyamani.com/), a Ruby, Rails, and automation consultant with 24 years of web development experience. I’ve helped teams and companies save thousands of hours ($60K+) per year by automating manual tasks, speeding up daily workflows and test suites, and eliminating or shortening meetings. I spent the most recent 9 years in Civic Tech at [Code for America](https://github.com/codeforamerica), [18F](https://github.com/18F) and [Truss](https://github.com/TrussWorks), where I shaped Engineering best practices.
+I'm [Moncef Belyamani](https://www.moncefbelyamani.com/), a Ruby, Rails, and automation consultant with 24 years of web development experience. I’ve helped teams and companies save thousands of hours ($100K+) per year by automating manual tasks, speeding up daily workflows and test suites, and eliminating or shortening meetings. I spent the most recent 9 years in Civic Tech at [Code for America](https://github.com/codeforamerica), [18F](https://github.com/18F) and [Truss](https://github.com/TrussWorks), where I shaped Engineering best practices.
 
 I'm also known as the Ruby on Mac guy. Having helped thousands of people set up Ruby on their Mac over the past 10 years, I knew how painful and time-consuming it was. Every day, folks from all over the world get stuck trying to build their dream app, or start their new Jekyll site, or get a Rails app running for their day job. 
 
