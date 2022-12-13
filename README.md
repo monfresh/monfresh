@@ -6,7 +6,7 @@ I'm also known as the Ruby on Mac guy. Having helped thousands of people set up 
 
 To help people get back on track, I built [Ruby on Mac](https://www.rubyonmac.dev/?utm_campaign=gh-readme). With a single command, it sets up a complete Ruby development environment for you in 15 minutes or less! It can also fix common issues people run into when setting up a Mac for development, especially on Apple Silicon Macs (M1/M2). If you're having trouble installing Rails, Jekyll, Cocoapods, sqlite, ffi, or some other gem, give Ruby on Mac a try. 
 
-I'm building Ruby on Mac in public, and sharing my progress on [Twitter](https://twitter.com/monfresh) and on [my blog](https://www.moncefbelyamani.com/tags/business/), although I've been more focused on the product than blogging lately. As of late October 2022, I've made close to $30k, beating my goal of $24k in 2022. My next goal is to reach $50k.
+I'm building Ruby on Mac in public, and sharing my progress on [Twitter](https://twitter.com/monfresh) and on [my blog](https://www.moncefbelyamani.com/tags/business/), although I've been more focused on the product than blogging lately. As of mid December 2022, I've made close to $38k, crushing my goal of $24k in 2022. My next goal is to reach $50k.
 
 I also started an [automation/productivity newsletter](https://www.moncefbelyamani.com/newsletter) to show you how to speed up your repetitive workflows.
 
