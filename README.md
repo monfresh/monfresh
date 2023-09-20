@@ -2,7 +2,7 @@
 
 I'm [Moncef Belyamani](https://www.moncefbelyamani.com/), the creator of [Ruby on Mac](https://www.rubyonmac.dev/?utm_campaign=gh-readme), the fastest, easiest, and most reliable way to set up and maintain a proper Ruby development environment on a Mac. It's the result of helping hundreds of thousands of people over the past 11 years, and hundreds of hours of research and testing on 4 different Macs.
 
-Every day, folks from all over the world get stuck trying to build their dream app, or start their new Jekyll site, or get a Rails app running for their day job. Ruby on Mac is guaranteed to get you unstuck right away. I have over 1600 happy customers since I launched it in February 2022. Read how much [people love Ruby on Mac](https://www.rubyonmac.dev/testimonials) and how much time it has saved them.
+Every day, folks from all over the world get stuck trying to build their dream app, or start their new Jekyll site, or get a Rails app running for their day job. Ruby on Mac is guaranteed to get you unstuck right away. I have over 1700 happy customers since I launched it in February 2022. Read how much [people love Ruby on Mac](https://www.rubyonmac.dev/testimonials) and how much time it has saved them.
 
 With a single command, Ruby on Mac sets up a complete Ruby development environment for you in 15 minutes or less! It can also fix common issues people run into when setting up a Mac for development, especially on Apple Silicon Macs (M1/M2). If you're having trouble installing gems or setting up a Rails, Jekyll, Flutter, React Native, or other Ruby project, give Ruby on Mac a try. 
 
