@@ -25,7 +25,7 @@ I'm also a Ruby, Rails, and automation consultant with 24 years of web developme
 
 [Paste Text on Sites That Block It Without Extensions or Browser Hacks](https://www.moncefbelyamani.com/paste-text-on-sites-that-block-it-without-extensions-or-browser-hacks/)
 
-[The fastest and easiest way to install Ruby on a Mac in 2022](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
+[The fastest and easiest way to install Ruby on a Mac in 2023](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
 
 [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI](https://www.moncefbelyamani.com/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli/)
 
