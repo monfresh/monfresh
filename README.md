@@ -4,7 +4,7 @@ I'm [Moncef Belyamani](https://www.moncefbelyamani.com/), the creator of [Ruby o
 
 Every day, folks from all over the world get stuck trying to build their dream app, or start their new Jekyll site, or get a Rails app running for their day job. Ruby on Mac is guaranteed to get you unstuck right away, whether you're having issues with your existing dev setup, or setting up a new Mac. I have over 2000 happy customers since I launched it in February 2022. Read how much [people love Ruby on Mac](https://www.rubyonmac.dev/testimonials) and how much time it has saved them.
 
-With a single command, Ruby on Mac sets up a complete Ruby development environment for you in 15 minutes or less! It automatically fixes common problems with existing dev setups, especially on Apple Silicon Macs (M1/M2). Sometimes that's not enough though, which is why it comes with a "reset" mode that can safely back up and clean up your dev setup, so you can reinstall everything in "normal" mode with a clean slate. 
+With a single command, Ruby on Mac sets up a complete Ruby development environment for you in 15 minutes or less! It automatically fixes common problems with existing dev setups, especially on Apple Silicon Macs (M1/M2). Sometimes that's not enough though, which is why it comes with a "reset" mode that can safely back up and clean up your dev setup in 1 minute, so you can reinstall everything in "normal" mode with a clean slate. This will save you hours that you would have spent backing up and reformatting your hard drive, and reinstalling macOS.
 
 If you're having trouble installing gems or setting up a Rails, Jekyll, Flutter, React Native, or other Ruby project, give Ruby on Mac a try.
 
